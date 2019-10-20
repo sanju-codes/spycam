@@ -1,11 +1,9 @@
 # SpyCam v1.0
-## Author: github.com/thelinuxchoice/spycam
-## IG: instagram.com/linux_choice
+## Author: github.com/Sanju8943/spycam
 ### Don't copy this code without give me the credits, nerd! 
 
 Script to generate a Win32 payload that takes the webcam image every 1 minute and send it to the attacker
 
-![sc](https://user-images.githubusercontent.com/34893261/50187876-a980fa00-0306-11e9-9a87-0ac4e649ea88.png)
 
 ### Features:
 ### Takes the webcam image every 1 minute
@@ -20,7 +18,7 @@ Usage of SpyCam for attacking targets without prior mutual consent is illegal. I
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/spycam
+git clone https://github.com/Sanju8943/spycam
 cd spycam
 bash install.sh
 chmod +x spycam
