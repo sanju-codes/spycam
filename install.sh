@@ -1,5 +1,5 @@
 # Install dependencies for SpyCam
-# Author: https://github.com/thelinuxchoice/spycam
+# Author: https://github.com/Sanju8943/spycam
 
 
 if [[ "$(id -u)" -ne 0 ]]; then
